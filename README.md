@@ -14,5 +14,6 @@ were analyzed. Multiple techniques were used for preparation and
 pre-processing the data, handling class imbalance, encoding 
 categorical data and extraction of the useful features.
 
-The tech stack included in this project include Python &
-Machine Learning.
+Skills used:
+* Python
+* Machine Learning
